@@ -220,20 +220,8 @@
   # End Triad
   # Triad start - Clown/mime costumes.
   - CircusClownSuit
-  - CandyClownSuit
-  - SpottedClownSuit
-  - StripedClownSuit
-  - ClownFormalJumpsuit
-  - ClownFormalJumpskirt
-  - ClownClownJumpsuit
-  - ClownClownJumpskirt
   - MimeCroppedSuit
   - MimeNouveauSuit
-  - MimePerformerSuit
-  - MimePerformerSkirt
-  - MimeSuaveWhite
-  - MimeSuaveBlack
-  - MimeFrillsDress
   # End Triad
 
   fallbacks:
