@@ -1,27 +1,23 @@
 - type: loadout
   id: MimeBowler
   groupBy: BartenderHat # Triad
-  price: 0 # Triad
   equipment:
     head: ClothingHeadHatMimeBowler
 
 - type: loadout
   id: MimePufferCoat
   groupBy: Coat # Triad
-  price: 0 # Triad
   equipment:
     outerClothing: ClothingOuterCoatPufferMime
 
 - type: loadout
   id: MimeCroppedSuit
   groupBy: PerformerJumpsuit # Triad
-  price: 0 # Triad
   equipment:
     jumpsuit: ClothingUniformJumpsuitMimeCropped
 
 - type: loadout
   id: MimeNouveauSuit
   groupBy: PerformerJumpsuit # Triad
-  price: 0 # Triad
   equipment:
     jumpsuit: ClothingUniformJumpsuitMimeNouveau

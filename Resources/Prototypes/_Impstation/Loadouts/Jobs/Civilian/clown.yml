@@ -1,13 +1,11 @@
 - type: loadout
   id: CircusClownHat
   groupBy: JesterHat # Triad
-  price: 0 # Triad
   equipment:
     head: ClothingHeadHatCircusClown
 
 - type: loadout
   id: CircusClownSuit
   groupBy: PerformerJumpsuit # Triad
-  price: 0 # Triad
   equipment:
     jumpsuit: ClothingUniformCircusClown
