@@ -34,35 +34,17 @@ marking-FacepaintMimeSadVulpkanin = Sad Mime Facepaint
 marking-FacepaintMimeSeriousVulpkanin = Serious Mime Facepaint
 marking-FacepaintWhiteVulpkanin = White Facepaint
 
-marking-FacepaintBlushHead = Light Blush
-marking-FacepaintBlushHead-facepaint_blush = Light Blush
+marking-FacepaintBlushHead = Small Blush
+marking-FacepaintBlushHead-facepaint_blush = Small Blush
 marking-FacepaintEyebrowsHead = Eyebrows
 marking-FacepaintEyebrowsHead-facepaint_eyebrows = Eyebrows
 # Triad
 # marking-FacepaintLipstickHead = Lipstick
 # marking-FacepaintLipstickHead-facepaint_lipstick = Lipstick
 # End Triad
-marking-FacepaintBlushSnout = Light Blush
-marking-FacepaintBlushSnout-facepaint_blush = Light Blush
+marking-FacepaintBlushSnout = Small Blush
+marking-FacepaintBlushSnout-facepaint_blush = Small Blush
 marking-FacepaintEyebrowsSnout = Eyebrows
 marking-FacepaintEyebrowsSnout-facepaint_eyebrows = Eyebrows
 marking-FacepaintLipstickSnout = Lipstick
 marking-FacepaintLipstickSnout-facepaint_lipstick_snout = Lipstick
-
-# Triad
-marking-FacepaintClownIPC = Clown Facepaint
-marking-FacepaintClownMinimalIPC = Minimalist Clown Facepaint
-marking-FacepaintClownSadIPC = Sad Clown Facepaint
-marking-FacepaintClownSeriousIPC = Serious Clown Facepaint
-marking-FacepaintClownSmugIPC = Smug Clown Facepaint
-marking-FacepaintMimeIPC = Mime Facepaint
-marking-FacepaintMimeBlushIPC = Blushing Mime Facepaint
-marking-FacepaintMimeOddIPC = Odd Mime Facepaint
-marking-FacepaintMimeSadIPC = Sad Mime Facepaint
-marking-FacepaintMimeSeriousIPC = Serious Mime Facepaint
-marking-FacepaintWhiteIPC = White Facepaint
-marking-FacepaintBlushIPC = Light Blush
-marking-FacepaintBlushIPC-facepaint_blush = Light Blush
-marking-FacepaintEyebrowsIPC = Eyebrows
-marking-FacepaintEyebrowsIPC-facepaint_eyebrows = Eyebrows
-# End Triad

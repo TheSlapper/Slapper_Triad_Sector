@@ -179,7 +179,7 @@
   id: FacepaintClownReptilian
   bodyPart: Snout
   markingCategory: Head
-  speciesRestriction: [Reptilian, Shadekin] # Triad: added Shadekin
+  speciesRestriction: [Reptilian]
   forcedColoring: true
   coloring:
     default:
@@ -194,7 +194,7 @@
   id: FacepaintClownMinimalReptilian
   bodyPart: Snout
   markingCategory: Head
-  speciesRestriction: [Reptilian, Shadekin] # Triad: added Shadekin
+  speciesRestriction: [Reptilian]
   forcedColoring: true
   coloring:
     default:
@@ -209,7 +209,7 @@
   id: FacepaintClownSadReptilian
   bodyPart: Snout
   markingCategory: Head
-  speciesRestriction: [Reptilian, Shadekin] # Triad: added Shadekin
+  speciesRestriction: [Reptilian]
   forcedColoring: true
   coloring:
     default:
@@ -224,7 +224,7 @@
   id: FacepaintClownSeriousReptilian
   bodyPart: Snout
   markingCategory: Head
-  speciesRestriction: [Reptilian, Shadekin] # Triad: added Shadekin
+  speciesRestriction: [Reptilian]
   forcedColoring: true
   coloring:
     default:
@@ -239,7 +239,7 @@
   id: FacepaintClownSmugReptilian
   bodyPart: Snout
   markingCategory: Head
-  speciesRestriction: [Reptilian, Shadekin] # Triad: added Shadekin
+  speciesRestriction: [Reptilian]
   forcedColoring: true
   coloring:
     default:
@@ -254,7 +254,7 @@
   id: FacepaintMimeReptilian
   bodyPart: Snout
   markingCategory: Head
-  speciesRestriction: [Reptilian, Shadekin] # Triad: added Shadekin
+  speciesRestriction: [Reptilian]
   forcedColoring: true
   coloring:
     default:
@@ -269,7 +269,7 @@
   id: FacepaintMimeBlushReptilian
   bodyPart: Snout
   markingCategory: Head
-  speciesRestriction: [Reptilian, Shadekin] # Triad: added Shadekin
+  speciesRestriction: [Reptilian]
   forcedColoring: true
   coloring:
     default:
@@ -284,7 +284,7 @@
   id: FacepaintMimeOddReptilian
   bodyPart: Snout
   markingCategory: Head
-  speciesRestriction: [Reptilian, Shadekin] # Triad: added Shadekin
+  speciesRestriction: [Reptilian]
   forcedColoring: true
   coloring:
     default:
@@ -299,7 +299,7 @@
   id: FacepaintMimeSadReptilian
   bodyPart: Snout
   markingCategory: Head
-  speciesRestriction: [Reptilian, Shadekin] # Triad: added Shadekin
+  speciesRestriction: [Reptilian]
   forcedColoring: true
   coloring:
     default:
@@ -314,7 +314,7 @@
   id: FacepaintWhiteReptilian
   bodyPart: Snout
   markingCategory: Head
-  speciesRestriction: [Reptilian, Shadekin] # Triad: added Shadekin
+  speciesRestriction: [Reptilian]
   forcedColoring: true
   coloring:
     default:
@@ -497,7 +497,7 @@
   id: FacepaintBlushHead
   bodyPart: Head
   markingCategory: Head
-  speciesRestriction: [Arachnid, Dwarf, Felinid, Goblin, Harpy, Human, Moth, Oni, SlimePerson, Kobold, Rodentia, Tajaran, Yowie] # Triad: removed Sheleg, added Kobold, Rodentia, Tajaran, Yowie
+  speciesRestriction: [Arachnid, Dwarf, Felinid, Goblin, Harpy, Human, Moth, Oni, SlimePerson, Rodentia, Tajaran] # Triad
   sprites:
   - sprite: _NF/Mobs/Customization/facepaints/shared.rsi
     state: facepaint_blush
@@ -506,7 +506,7 @@
   id: FacepaintEyebrowsHead
   bodyPart: Head
   markingCategory: Head
-  speciesRestriction: [Arachnid, Dwarf, Felinid, Goblin, Harpy, Human, Moth, Oni, SlimePerson, Kobold, Rodentia, Tajaran, Yowie] # Triad: removed Sheleg, added Kobold, Rodentia, Tajaran, Yowie
+  speciesRestriction: [Arachnid, Dwarf, Felinid, Goblin, Harpy, Human, Moth, Oni, SlimePerson, Rodentia, Tajaran] # Triad
   sprites:
   - sprite: _NF/Mobs/Customization/facepaints/shared.rsi
     state: facepaint_eyebrows
@@ -526,7 +526,7 @@
   id: FacepaintBlushSnout
   bodyPart: Snout
   markingCategory: Head
-  speciesRestriction: [Reptilian, Vulpkanin, Feroxi, Ovinia, Shadekin] # Triad: added Feroxi, Ovinia, Shadekin
+  speciesRestriction: [Reptilian, Vulpkanin, Feroxi, Ovinia] # Triad
   sprites:
   - sprite: _NF/Mobs/Customization/facepaints/shared.rsi
     state: facepaint_blush
@@ -535,7 +535,7 @@
   id: FacepaintEyebrowsSnout
   bodyPart: Snout
   markingCategory: Head
-  speciesRestriction: [Reptilian, Vulpkanin, Feroxi, Ovinia, Shadekin] # Triad: added Feroxi, Ovinia, Shadekin
+  speciesRestriction: [Reptilian, Vulpkanin, Feroxi, Ovinia] # Triad
   sprites:
   - sprite: _NF/Mobs/Customization/facepaints/shared.rsi
     state: facepaint_eyebrows
@@ -544,7 +544,7 @@
   id: FacepaintLipstickSnout
   bodyPart: Snout
   markingCategory: Head
-  speciesRestriction: [Reptilian, Vulpkanin, Shadekin] # Triad: added Shadekin
+  speciesRestriction: [Reptilian, Vulpkanin]
   sprites:
   - sprite: _NF/Mobs/Customization/facepaints/shared.rsi
     state: facepaint_lipstick_snout
@@ -553,7 +553,7 @@
   id: FacepaintMimeSeriousReptilian
   bodyPart: Snout
   markingCategory: Head
-  speciesRestriction: [Reptilian, Shadekin] # Triad: added Shadekin
+  speciesRestriction: [Reptilian]
   forcedColoring: true
   coloring:
     default:
@@ -563,188 +563,3 @@
   sprites:
   - sprite: _NF/Mobs/Customization/facepaints/reptilian.rsi
     state: facepaint_mime_serious
-
-# Triad
-- type: marking
-  id: FacepaintClownIPC
-  bodyPart: Head
-  markingCategory: Overlay
-  speciesRestriction: [IPC]
-  forcedColoring: true
-  coloring:
-    default:
-      type:
-        !type:SimpleColoring
-        color: "#FFFFFF"
-  sprites:
-  - sprite: _NF/Mobs/Customization/facepaints/human.rsi
-    state: facepaint_clown
-
-- type: marking
-  id: FacepaintClownMinimalIPC
-  bodyPart: Head
-  markingCategory: Overlay
-  speciesRestriction: [IPC]
-  forcedColoring: true
-  coloring:
-    default:
-      type:
-        !type:SimpleColoring
-        color: "#FFFFFF"
-  sprites:
-  - sprite: _NF/Mobs/Customization/facepaints/human.rsi
-    state: facepaint_clown_minimal
-
-- type: marking
-  id: FacepaintClownSadIPC
-  bodyPart: Head
-  markingCategory: Overlay
-  speciesRestriction: [IPC]
-  forcedColoring: true
-  coloring:
-    default:
-      type:
-        !type:SimpleColoring
-        color: "#FFFFFF"
-  sprites:
-  - sprite: _NF/Mobs/Customization/facepaints/human.rsi
-    state: facepaint_clown_sad
-
-- type: marking
-  id: FacepaintClownSeriousIPC
-  bodyPart: Head
-  markingCategory: Overlay
-  speciesRestriction: [IPC]
-  forcedColoring: true
-  coloring:
-    default:
-      type:
-        !type:SimpleColoring
-        color: "#FFFFFF"
-  sprites:
-  - sprite: _NF/Mobs/Customization/facepaints/human.rsi
-    state: facepaint_clown_serious
-
-- type: marking
-  id: FacepaintClownSmugIPC
-  bodyPart: Head
-  markingCategory: Overlay
-  speciesRestriction: [IPC]
-  forcedColoring: true
-  coloring:
-    default:
-      type:
-        !type:SimpleColoring
-        color: "#FFFFFF"
-  sprites:
-  - sprite: _NF/Mobs/Customization/facepaints/human.rsi
-    state: facepaint_clown_smug
-
-- type: marking
-  id: FacepaintMimeIPC
-  bodyPart: Head
-  markingCategory: Overlay
-  speciesRestriction: [IPC]
-  forcedColoring: true
-  coloring:
-    default:
-      type:
-        !type:SimpleColoring
-        color: "#FFFFFF"
-  sprites:
-  - sprite: _NF/Mobs/Customization/facepaints/human.rsi
-    state: facepaint_mime
-
-- type: marking
-  id: FacepaintMimeBlushIPC
-  bodyPart: Head
-  markingCategory: Overlay
-  speciesRestriction: [IPC]
-  forcedColoring: true
-  coloring:
-    default:
-      type:
-        !type:SimpleColoring
-        color: "#FFFFFF"
-  sprites:
-  - sprite: _NF/Mobs/Customization/facepaints/human.rsi
-    state: facepaint_mime_blush
-
-- type: marking
-  id: FacepaintMimeOddIPC
-  bodyPart: Head
-  markingCategory: Overlay
-  speciesRestriction: [IPC]
-  forcedColoring: true
-  coloring:
-    default:
-      type:
-        !type:SimpleColoring
-        color: "#FFFFFF"
-  sprites:
-  - sprite: _NF/Mobs/Customization/facepaints/human.rsi
-    state: facepaint_mime_odd
-
-- type: marking
-  id: FacepaintMimeSadIPC
-  bodyPart: Head
-  markingCategory: Overlay
-  speciesRestriction: [IPC]
-  forcedColoring: true
-  coloring:
-    default:
-      type:
-        !type:SimpleColoring
-        color: "#FFFFFF"
-  sprites:
-  - sprite: _NF/Mobs/Customization/facepaints/human.rsi
-    state: facepaint_mime_sad
-
-- type: marking
-  id: FacepaintMimeSeriousIPC
-  bodyPart: Head
-  markingCategory: Overlay
-  speciesRestriction: [IPC]
-  forcedColoring: true
-  coloring:
-    default:
-      type:
-        !type:SimpleColoring
-        color: "#FFFFFF"
-  sprites:
-  - sprite: _NF/Mobs/Customization/facepaints/human.rsi
-    state: facepaint_mime_serious
-
-- type: marking
-  id: FacepaintWhiteIPC
-  bodyPart: Head
-  markingCategory: Overlay
-  speciesRestriction: [IPC]
-  forcedColoring: true
-  coloring:
-    default:
-      type:
-        !type:SimpleColoring
-        color: "#FFFFFF"
-  sprites:
-  - sprite: _NF/Mobs/Customization/facepaints/human.rsi
-    state: facepaint_white
-
-- type: marking
-  id: FacepaintBlushIPC
-  bodyPart: Head
-  markingCategory: Overlay
-  speciesRestriction: [IPC]
-  sprites:
-  - sprite: _NF/Mobs/Customization/facepaints/shared.rsi
-    state: facepaint_blush
-
-- type: marking
-  id: FacepaintEyebrowsIPC
-  bodyPart: Head
-  markingCategory: Overlay
-  speciesRestriction: [IPC]
-  sprites:
-  - sprite: _NF/Mobs/Customization/facepaints/shared.rsi
-    state: facepaint_eyebrows
-# End Triad
