@@ -246,9 +246,9 @@
   - StrainedShorts
   - ClothingUniformJumpsuitMilitaryPilot
   - ClothingUniformDrakeIndustriesTrucker
-  - CircusClownSuit
-  - MimeCroppedSuit
-  - MimeNouveauSuit
+  - ClothingUniformCircusClown
+  - ClothingUniformJumpsuitMimeCropped
+  - ClothingUniformJumpsuitMimeNouveau
   fallbacks:
   - ContractorClothingUniformJumpsuitColorGrey
   - ContractorClothingUniformJumpskirtColorGrey
@@ -493,7 +493,7 @@
   - ClothingOuterCoatMNKWhiteHoodie
   - ClothingOuterCoatMNKBlackTopCoat
   - ClothingOuterDrakeIndustriesTruckerPuffyVest
-  - MimePufferCoat
+  - ClothingOuterCoatPufferMime
 
 - type: loadoutGroup
   id: ContractorBelt
@@ -713,8 +713,8 @@
   - ContractorClothingHeadRastaHat
   - ContractorClothingHeadHatSombrero
   - ContractorClothingHeadHatCasa
-  - CircusClownHat
-  - MimeBowler
+  - ClothingHeadHatCircusClown
+  - ClothingHeadHatMimeBowler
 
 - type: loadoutGroup
   id: ContractorEars
